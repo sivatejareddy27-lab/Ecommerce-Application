@@ -26,7 +26,7 @@ An Online Shopping Application built with Core Java (Console) and deployed as a 
 - Bootstrap 5
 
 ## Live Demo
-flourishing-sherbet-b77a09.netlify.app
+https://flourishing-sherbet-b77a09.netlify.app
 
 ## Developed By
 Siva Teja Reddy
